@@ -1,8 +1,11 @@
+* {
+  color: white;
+}
+
 html {
   background: black;
 }
 
-
 h1 {
-  color: white;
+  color: green;
 }

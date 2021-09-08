@@ -42,14 +42,15 @@ footer p {
 }
 
 .icon {
-  color: gray;
+  color: white;
   width: 30px;
+  background: white;
 }
 
 .nav-button {
   position: absolute;
-  bottom: 8px;
-  right: 8px;
+  bottom: 20px;
+  right: 20px;
   border-radius: 50%;
   background: green;
 }

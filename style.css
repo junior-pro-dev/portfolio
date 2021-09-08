@@ -53,8 +53,8 @@ footer p {
 
 .nav-button {
   position: sticky;
-  bottom: 15px;
-  right: 15px;
+  top: 96%;
+  left: 96%;
   border-radius: 50%;
   background: green;
   width: 45px;

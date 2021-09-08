@@ -62,8 +62,6 @@ footer p {
 
 .nav-container {
   position: sticky;
-  top: calc(100% - 60px);
-  left: calc(100% - 60px);
   background: red;
 }
 

@@ -40,3 +40,13 @@ footer p {
   justify-content: center;
   align-items: center;
 }
+
+.icon {
+  color: gray;
+}
+
+.nav-button {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}

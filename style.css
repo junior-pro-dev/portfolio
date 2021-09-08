@@ -48,8 +48,8 @@ footer p {
 
 .nav-button {
   position: absolute;
-  bottom: 0;
-  right: 0;
+  bottom: 8px;
+  right: 8px;
   border-radius: 50%;
-  background: lime;
+  background: green;
 }

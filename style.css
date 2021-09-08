@@ -11,6 +11,10 @@ nav {
   justify-content: space-between;
 }
 
+nav a {
+  text-decoration: none;
+}
+
 main {
   padding: 30px 15px;
 }

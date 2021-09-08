@@ -11,7 +11,7 @@ h1 {
 }
 
 main {
-  padding: 0.8rem 0.4rem;
+  padding: 30px 15px;
 }
 
 .center-card {
@@ -20,6 +20,6 @@ main {
   align-items: center;
 }
 
-.card {
-  
+footer {
+  margin-top: 40px;
 }

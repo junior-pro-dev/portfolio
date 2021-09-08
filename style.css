@@ -42,9 +42,7 @@ footer p {
 }
 
 .icon {
-  color: white;
   width: 30px;
-  background: white;
   filter: invert(1);
 }
 

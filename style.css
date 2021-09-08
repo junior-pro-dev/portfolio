@@ -8,6 +8,7 @@ html {
 
 .link {
   color: green;
+  text-decorator: none;
 }
 
 main {

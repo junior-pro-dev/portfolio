@@ -44,6 +44,7 @@ footer p {
 .icon {
   width: 30px;
   filter: invert(1);
+  margin: auto;
 }
 
 .nav-button {
@@ -54,5 +55,4 @@ footer p {
   background: green;
   width: 40px;
   height: 40px;
-  text-align: center;
 }

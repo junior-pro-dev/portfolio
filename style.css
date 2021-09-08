@@ -9,3 +9,17 @@ html {
 h1 {
   color: green;
 }
+
+main {
+  padding: 0.8rem 0.4rem;
+}
+
+.center-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  
+}

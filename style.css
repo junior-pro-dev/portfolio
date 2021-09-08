@@ -52,9 +52,6 @@ footer p {
 }
 
 #nav-button {
-  position: sticky;
-  top: calc(100% - 60px);
-  left: calc(100% - 60px);
   border-radius: 50%;
   background: green;
   width: 45px;

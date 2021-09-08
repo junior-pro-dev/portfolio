@@ -30,6 +30,11 @@ footer p {
   text-align: center;
 }
 
+.footer-description {
+  display: block;
+  margin: 0 auto;
+}
+
 .link {
   color: green;
   text-decoration: none;

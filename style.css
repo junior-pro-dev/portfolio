@@ -49,4 +49,6 @@ footer p {
   position: absolute;
   bottom: 0;
   right: 0;
+  border-radius: 50%;
+  background: lime;
 }

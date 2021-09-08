@@ -15,6 +15,14 @@ main {
   padding: 30px 15px;
 }
 
+footer {
+  margin-top: 40px;
+}
+
+footer p {
+  text-align: center;
+}
+
 .link {
   color: green;
   text-decoration: none;
@@ -24,12 +32,4 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-footer {
-  margin-top: 40px;
-}
-
-footer p {
-  text-align: center;
 }

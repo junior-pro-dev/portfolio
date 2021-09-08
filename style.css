@@ -52,4 +52,6 @@ footer p {
   right: 20px;
   border-radius: 50%;
   background: green;
+  width: 40px;
+  height: 40px;
 }

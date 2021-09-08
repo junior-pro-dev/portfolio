@@ -66,3 +66,16 @@ footer p {
 .btn:active {
   filter: brightness(88%);
 }
+
+.relative {
+  position: relative;
+}
+
+.nav-popup {
+  position: absolute;
+  top: -100px;
+  left: -100px;
+  height: 100px;
+  width: 100px;
+  background: green;
+}

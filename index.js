@@ -1,4 +1,4 @@
-const navButton = document.getElementById("nav-button");
+const navButton = document.getElementById('nav-button');
 
 navButton.addEventListener(
   'click',

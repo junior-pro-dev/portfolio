@@ -77,5 +77,5 @@ footer p {
   left: -100px;
   height: 100px;
   width: 100px;
-  background: green;
+  border: 1px solid green;
 }

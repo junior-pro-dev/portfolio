@@ -40,7 +40,7 @@ footer p {
   text-decoration: none;
 }
 
-.center-card {
+.center {
   display: flex;
   justify-content: center;
   align-items: center;

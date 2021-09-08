@@ -6,13 +6,18 @@ html {
   background: black;
 }
 
-.link {
-  color: green;
-  text-decoration: none;
+nav {
+  display: flex;
+  justify-content: space-between;
 }
 
 main {
   padding: 30px 15px;
+}
+
+.link {
+  color: green;
+  text-decoration: none;
 }
 
 .center-card {

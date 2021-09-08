@@ -47,7 +47,7 @@ footer p {
 }
 
 .nav-button {
-  position: absolute;
+  position: sticky;
   bottom: 15px;
   right: 15px;
   border-radius: 50%;

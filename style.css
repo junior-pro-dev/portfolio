@@ -57,3 +57,7 @@ footer p {
   outline: none;
   border: none;
 }
+
+.btn:active {
+  filter: brightness(10%);
+}

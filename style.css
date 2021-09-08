@@ -32,7 +32,7 @@ footer p {
 
 .footer-description {
   display: block;
-  margin: auto 0;
+  height: 50px;
 }
 
 .link {

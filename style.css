@@ -95,5 +95,6 @@ footer p {
 }
 
 .nav-hidden {
-  display: none;
+  background: red;
+  height: 10px;
 }

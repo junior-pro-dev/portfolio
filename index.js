@@ -1,10 +1,10 @@
 const navButton = document.getElementById('nav-button');
-let navPopup;
+// let navPopup;
 
 const toggleVisibility = () => {
-  navPopup = document.getElementById('nav-popup');
-
+  const navPopup = document.getElementById('nav-popup');
   navPopup.toggleAttribute('hidden');
+  alert(1);
 }
 // const t = () => alert('you must have allowed JavaScript in the browser for this website');
 

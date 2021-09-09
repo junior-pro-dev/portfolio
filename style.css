@@ -94,7 +94,7 @@ footer p {
   border: 1.5px solid green;
 }
 
-.nav-hidden .nav-hidden .nav-hidden {
+.nav-hidden {
   background: red;
   height: 10px;
 }

@@ -86,3 +86,7 @@ footer p {
   display: flex;
   flex-direction: row;
 }
+
+.hidden {
+  visibility: hidden;
+}

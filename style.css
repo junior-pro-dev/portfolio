@@ -93,3 +93,7 @@ footer p {
   padding: 5px 8px;
   border: 1.5px solid green;
 }
+
+.nav-hidden {
+  display: none;
+}

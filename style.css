@@ -82,9 +82,10 @@ footer p {
   left: -100px;
   height: 100px;
   width: 100px;
-  border: 1px solid green;
+  border: 1.5px solid green;
   display: flex;
   flex-direction: column;
+  padding: 5px;
 }
 
 .link-container {

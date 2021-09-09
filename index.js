@@ -2,7 +2,7 @@ const navButton = document.getElementById('nav-button');
 let navPopup;
 
 const toggleVisibility = () => {
-  navPopup ??= document.getElementById('nav-popup');
+  navPopup = document.getElementById('nav-popup');
 
   navPopup.toggleAttribute('hidden');
 }

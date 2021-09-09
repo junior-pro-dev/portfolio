@@ -3,7 +3,7 @@ const navButton = document.getElementById('nav-button');
 
 const toggleVisibility = () => {
   const navPopup = document.getElementById('nav-popup');
-  navPopup.classList.add('nav-hidden');
+  navPopup.classList.toggle('nav-hidden');
 }
 // const t = () => alert('you must have allowed JavaScript in the browser for this website');
 

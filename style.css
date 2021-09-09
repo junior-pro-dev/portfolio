@@ -64,8 +64,8 @@ footer p {
   position: sticky;
   width:45px;
   height: 45px;
-  top: calc(100% - 60px);
-  left: calc(100% - 60px);
+  top: calc(100% - 80px);
+  left: calc(100% - 80px);
 }
 
 .btn:active {

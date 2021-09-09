@@ -1,8 +1,8 @@
 const navButton = document.getElementById('nav-button');
-const navPopup;
+let navPopup;
 
 const toggleVisibility = () => {
-  if (navPopup === null)
+  if (!navPopup)
     navPopup = document.getElementById('nav-popup');
 
   navPopup.toggleAttribute('hidden');

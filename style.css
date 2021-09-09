@@ -76,7 +76,7 @@ footer p {
   position: relative;
 }
 
-#nav-popup {
+.nav-popup {
   position: absolute;
   top: -120px;
   left: -110px;
